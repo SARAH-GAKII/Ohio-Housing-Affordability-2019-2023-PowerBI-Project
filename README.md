@@ -101,10 +101,4 @@ Examines Sandusky County’s housing affordability in detail, benchmarking its r
 
 ---
 
-## Author
-
-Sarah G. Randol  
-Applied Mathematics & Data Analysis  
-
-
 
