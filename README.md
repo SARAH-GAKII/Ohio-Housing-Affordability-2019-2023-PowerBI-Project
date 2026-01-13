@@ -55,6 +55,7 @@ All measures respond dynamically to year and county filters.
 
 ### 1. Ohio Housing Overview
 Summarizes statewide housing affordability conditions across Ohio counties using aggregate indicators, selected time trends, and cross-county comparisons, providing context for more detailed county-level analysis.
+  - ![Dashboard Preview](Page_1.png)
 
 ---
 
