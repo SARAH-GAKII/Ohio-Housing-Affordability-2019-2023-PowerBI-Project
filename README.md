@@ -74,13 +74,13 @@ Examines Sandusky County’s housing affordability in detail, benchmarking its r
 
 ---
 
-## File Contents
+## Project File Contents
 
-- [Ohio_Housing_Affordability.pbix](Ohio_Housing_Affordability.pbix) — complete Power BI report with model, measures, and visuals  
-- [Dashboard_Page_1](Page_1.png) — static previews of report page 1
-- [Dashboard_Page_2](Page_2.png) — static previews of report page 2
-- [Dashboard_Page_3](Page_3.png) — static previews of report page 3
-- [Insights](Insights.pdf) —  
+- [Ohio Housing Affordability](Ohio_Housing_Affordability.pbix) — Complete Power BI report including the data model, DAX measures, and interactive visuals  
+- [Dashboard - Ohio Housing Overview](Page_1.png) — Static preview of the Ohio Housing Overview dashboard
+- [Dashboard - County Comparison and Sandusky](Page_2.png) — Static preview of the County Comparison and Sandusky dashboard
+- [Dashboard - Sandusky Deep Dive](Page_3.png) — Static preview of the Sandusky Deep Dive dashboard
+- [Insights](Insights.pdf) — Analytical insights report detailing statewide trends, county-level comparisons, and a focused assessment of Sandusky County.
 
 
 ---
