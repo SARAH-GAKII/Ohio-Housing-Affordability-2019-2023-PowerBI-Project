@@ -74,11 +74,13 @@ Examines Sandusky County’s housing affordability in detail, benchmarking its r
 
 ---
 
-## Repository Structure
+## File Contents
 
-
-
-
+- [Ohio_Housing_Affordability.pbix](Ohio_Housing_Affordability.pbix) — complete Power BI report with model, measures, and visuals  
+- [Dashboard_Page_1](Page_1.png) — static previews of report page 1
+- [Dashboard_Page_2](Page_2.png) — static previews of report page 2
+- [Dashboard_Page_3](Page_3.png) — static previews of report page 3
+- [Insights](Insights.png) —  
 
 
 ---
