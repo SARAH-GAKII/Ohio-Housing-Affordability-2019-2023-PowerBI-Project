@@ -74,13 +74,26 @@ Examines Sandusky County’s housing affordability in detail, benchmarking its r
 
 ---
 
+## Some Key Insight
+
+- Ohio appears broadly affordable at the aggregate level, but housing affordability varies substantially across counties.
+- Rising rents have largely been offset by income growth at the state level, but not uniformly across counties.
+- Housing affordability pressure is spatially dispersed rather than regionally concentrated, reflecting localized market dynamics.
+- Sandusky County exhibits moderate and stable affordability, consistently remaining below statewide average and upper-percentile benchmarks.
+- Sandusky County ranks near the middle of Ohio counties, maintaining a stable relative position over time.
+- Sandusky County’s rent burden reflects balanced income and rent levels, rather than extreme affordability stress.
+
+*Detailed analysis is provided in the accompanying [Insights Document](Insights.pdf)*.
+
+---
+
 ## Project File Contents
 
 - [Ohio Housing Affordability](Ohio_Housing_Affordability.pbix) — Complete Power BI report including the data model, DAX measures, and interactive visuals  
 - [Dashboard - Ohio Housing Overview](Page_1.png) — Static preview of the Ohio Housing Overview dashboard
 - [Dashboard - County Comparison and Sandusky](Page_2.png) — Static preview of the County Comparison and Sandusky dashboard
 - [Dashboard - Sandusky Deep Dive](Page_3.png) — Static preview of the Sandusky Deep Dive dashboard
-- [Insights](Insights.pdf) — Analytical insights report detailing statewide trends, county-level comparisons, and a focused assessment of Sandusky County.
+- [Insights Document](Insights.pdf) — Analytical insights report detailing statewide trends, county-level comparisons, and a focused assessment of Sandusky County.
 
 
 ---
