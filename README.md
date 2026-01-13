@@ -55,19 +55,22 @@ All measures respond dynamically to year and county filters.
 
 ### 1. Ohio Housing Overview
 Summarizes statewide housing affordability conditions across Ohio counties using aggregate indicators, selected time trends, and cross-county comparisons, providing context for more detailed county-level analysis.
-<img src="Page_1.png" width="800">
+
+- <img src="Page_1.png" width="400">
 
 ---
 
 ### 2. County Comparison & Sandusky Context
 Enables county-level comparison with a focused view of Sandusky County relative to neighboring counties, emphasizing differences in rent-to-income ratio dynamics.
-<img src="Page_2.png" width="800">
+
+- <img src="Page_2.png" width="400">
 
 ---
 
 ### 3. Sandusky Deep Dive
 Examines Sandusky County’s housing affordability in detail, benchmarking its rent burden against statewide averages and percentile thresholds and tracking changes in its relative standing over time.
-<img src="Page_3.png" width="800">
+
+- <img src="Page_3.png" width="400">
 
 ---
 
